@@ -1,55 +1,61 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=007BEC&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Fa'iq+Arya+Dewangga;I'm+a+Mobile+Developer;Building+impactful+apps+at+BRI" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Fa'iq%20Arya%20Dewangga!&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
 </div>
 
----
-
-### 👨‍💻 About Me
-
-I am a passionate **Mobile Developer** currently crafting high-quality, user-centric, and secure applications at **BRI** (Bank Rakyat Indonesia). With over **2 years of professional experience** in mobile engineering, I specialize in building robust and scalable applications for both Android and iOS platforms.
-
-- 🔭 I’m currently working on impactful fintech mobile projects using **Kotlin**, **Android SDK**, and **Flutter**.
-- 🌱 I’m constantly learning and exploring **Kotlin Multiplatform (KMP)** and advanced software architectures.
-- 👯 I’m looking to collaborate on open-source mobile projects, especially those related to UI/UX, hardware integrations, or security.
-- 💬 Ask me about **Android Development**, **Flutter**, or building secure mobile banking applications.
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/faiqaryadewangga/)** | **[Email](mailto:fanggadewangga.com)**
-
----
-
-### 🛠️ Tech Stack & Tools
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=Mobile+Developer;Android+%E2%80%A2+iOS+%E2%80%A2+Flutter;Kotlin+Multiplatform+Enthusiast;Crafting+Scalable+Mobile+Apps" alt="Typing SVG" />
+  </a>
+</div>
 
 <div align="center">
-  
-**Mobile Development**<br>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <a href="https://linkedin.com/in/fanggadewangga">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/fanggadewangga">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://drive.google.com/file/d/1cLQIT60i8sb0swiFM_nfccPvQbuZt-6c/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-FF4B4B?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+  </a>
+</div>
 
 <br>
 
-**Tools & Infrastructure**<br>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
----
+### 👨🏻‍💻 Who Am I?
+
+I am a **Mobile Developer** currently building scalable and high-performance applications at **Bank Rakyat Indonesia (BRI)** & **Fata Organa Solusi**. With a deep passion for clean architecture and beautiful UI, I specialize in **Android Native (Kotlin/Compose)**, **Flutter**, and **iOS (Swift)**, while actively pushing boundaries with **Kotlin Multiplatform (KMP)**. 🚀
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
+### 🛠️ Tech Stack
+
+**Mobile Development:**<br>
+<img src="https://skillicons.dev/icons?i=kotlin,swift,flutter,dart,react" />
+
+**Frontend & Backend:**<br>
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,tailwind,nextjs,react,ktor" />
+
+**Database & Tools:**<br>
+<img src="https://skillicons.dev/icons?i=firebase,postgres,mongodb,git,androidstudio,vscode" />
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fanggadewangga&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="Fa'iq's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fanggadewangga&theme=radium&hide_border=true&background=0D1117" alt="Fa'iq's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fanggadewangga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fanggadewangga&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 
----
-
 <div align="center">
-  <i>"Writing code that makes a difference, one pixel at a time."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
