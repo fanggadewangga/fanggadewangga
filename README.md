@@ -53,7 +53,6 @@ I am a **Mobile Developer** currently building scalable and high-performance app
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fanggadewangga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fanggadewangga&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
